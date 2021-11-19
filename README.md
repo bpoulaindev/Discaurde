@@ -1,4 +1,4 @@
-# Loccker
+# Discaurde
 This is fuckin safe
 //démarrage mode dev
 npm run please 
